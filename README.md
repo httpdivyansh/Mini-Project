@@ -1,4 +1,4 @@
 # Mini-Project
 
-There is a Different Branch you can go there !
+There is a one more branch you can check for code there
 Sorry for the inconvenience 
